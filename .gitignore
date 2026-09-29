@@ -1,0 +1,20 @@
+# Local backup
+CircuitEDA_Maker_Library_v1.backup/
+
+# Distribution archives are published as GitHub Release assets
+dist/
+
+# KiCad local/generated files
+*-backups/
+*.lck
+*.lck~
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*~
