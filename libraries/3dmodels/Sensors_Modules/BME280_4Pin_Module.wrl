@@ -1,0 +1,5 @@
+#VRML V2.0 utf8
+WorldInfo { title "CircuitEDA Maker Library 3D model" }
+Transform { translation 0.000000 0.000000 0.236220 children [ Shape { appearance Appearance { material Material { diffuseColor 0.35 0.05 0.5 } } geometry Box { size 5.157480 3.937008 0.472441 } } ] }
+Transform { translation -2.086614 0.000000 0.964567 children [ Shape { appearance Appearance { material Material { diffuseColor 0.05 0.05 0.05 } } geometry Box { size 0.984252 3.937008 0.984252 } } ] }
+Transform { translation 1.240157 -0.787402 0.669291 children [ Shape { appearance Appearance { material Material { diffuseColor 0.75 0.75 0.75 } } geometry Box { size 1.141732 1.141732 0.393701 } } ] }
