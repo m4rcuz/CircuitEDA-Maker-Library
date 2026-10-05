@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name "Button_Switch_SMD")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Button_Switch_SMD.pretty")(options "")(descr ""))
   (lib (name "Capacitor_SMD")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Capacitor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Communication_Modules")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Communication_Modules.pretty")(options "")(descr "Maker communication modules"))
   (lib (name "Connector_JST")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Connector_JST.pretty")(options "")(descr ""))
   (lib (name "Connector_PinHeader_2.54mm")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Connector_PinHeader_2.54mm.pretty")(options "")(descr ""))
   (lib (name "Diode_SMD")(type "KiCad")(uri "$(KIPRJMOD)/libraries/footprints/Diode_SMD.pretty")(options "")(descr ""))
